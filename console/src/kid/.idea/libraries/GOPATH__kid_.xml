@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;kid&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Go/src/realblog" />
+      <root url="file://$USER_HOME$/Go/src/golang.org" />
+      <root url="file://$USER_HOME$/Go/src/github.com" />
+      <root url="file://$USER_HOME$/Go/src/code.byted.org" />
+      <root url="file://$USER_HOME$/Go/src/sourcegraph.com" />
+      <root url="file://$USER_HOME$/Go/src/test" />
+      <root url="file://$USER_HOME$/Go/src/kidding" />
+      <root url="file://$USER_HOME$/Go/src/apks" />
+      <root url="file://$USER_HOME$/Go/src/gopkg.in" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Go/src/realblog" />
+      <root url="file://$USER_HOME$/Go/src/golang.org" />
+      <root url="file://$USER_HOME$/Go/src/github.com" />
+      <root url="file://$USER_HOME$/Go/src/code.byted.org" />
+      <root url="file://$USER_HOME$/Go/src/sourcegraph.com" />
+      <root url="file://$USER_HOME$/Go/src/test" />
+      <root url="file://$USER_HOME$/Go/src/kidding" />
+      <root url="file://$USER_HOME$/Go/src/apks" />
+      <root url="file://$USER_HOME$/Go/src/gopkg.in" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
